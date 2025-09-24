@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doctork01" alt="doctork01" /></a> </p>
 
-- 🔭 I’m currently working on **C**
+ 🔭 I’m currently working on **C,DSA,JAVA**
+
+- 🌱 I’m currently learning **DSA,C,JAVA**
 
 - 👯 I’m looking to collaborate on **DSA**
 
